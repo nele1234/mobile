@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    tools:context=".RegActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="141dp"
+        app:srcCompat="@mipmap/logo"
+        android:contentDescription="@string/logo" />
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <EditText
+            android:id="@+id/txtUsername"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#ffe082"
+            android:drawableLeft="@mipmap/username"
+            android:drawableStart="@mipmap/username"
+
+            android:ems="10"
+            android:hint="@string/username"
+            android:inputType="textPersonName"
+            android:textSize="14sp" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <EditText
+            android:id="@+id/txtemail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#ffe082"
+
+            android:drawableLeft="@mipmap/email"
+
+            android:drawableStart="@mipmap/email"
+            android:ems="10"
+            android:hint="@string/email"
+            android:inputType="textEmailAddress"
+            android:textSize="14sp" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+
+        <EditText
+            android:id="@+id/txtpass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#ffe082"
+            android:drawableLeft="@mipmap/password"
+            android:drawableStart="@mipmap/password"
+            android:ems="10"
+
+            android:hint="@string/pass"
+            android:inputType="textPassword"
+            android:textSize="14sp" />
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/btnreg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff8f00"
+        android:text="@string/signUp" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/haveAcc"
+        android:textColor="#ffffff"/>
+
+    <Button
+        android:id="@+id/btnlog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff8f00"
+        android:text="@string/logIn" />
+
+</LinearLayout>

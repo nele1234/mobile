@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GlavnaStranicaProjekat</string>
+    <string name="username">Enter your name</string>
+    <string name="email">Enter email</string>
+    <string name="pass">Enter password</string>
+    <string name="signUp">Sign Up</string>
+    <string name="haveAcc">Already have an account?</string>
+    <string name="logIn">Log in</string>
+    <string name="logo">Logo</string>
+    <string name="ButtonLogIn">Log In</string>
+    <string name="ButtonSignUp">Sign Up</string>
+    <string name="username2">Username</string>
+    <string name="password">Password</string>
+    <string name="NoAcc">Not a member? Sign up now</string>
+    <string name="ForgotPass">Forgot Password?</string>
+    <string name="logo1">Logo</string>
+    <string name="checkbox">Remember me</string>
+    <string name="nameerror">Enter Valid Name</string>
+    <string name="emailerror">Enter Valid Email</string>
+    <string name="passworderror">Enter Some Password</string>
+    <string name="mobileerror">Enter Valid Mobile Number</string>
+    <string name="lokacija">Here will be location</string>
+    <string name="broj">Here will be phone number</string>
+    <string name="Parking">Here will be parking:</string>
+    <string name="Internet">Here will be internet</string>
+
+    <string name="uploadImages">Set your image</string>
+    <string name="action_pic">Pictures</string>
+    <string name="todo">TODO</string>
+</resources>
