@@ -63,14 +63,6 @@ public class RegActivity extends AppCompatActivity {
                     startActivity(intent);
 
                 }
-              /*  if(txtUsername.length()!= 0 && txtpass.length()!= 0 && txtemail.length()!= 0) {
-                    Toast.makeText(getApplicationContext(), "register successfully", Toast.LENGTH_LONG).show();
-
-
-                }else
-                {
-                    Toast.makeText(RegActivity.this, "Enter all fields", Toast.LENGTH_SHORT).show();
-                }*/
             }
         });
 

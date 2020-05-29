@@ -6,14 +6,29 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25471352-1cea-468f-a248-7c7eedba8ce0" name="Default Changelist" comment="" />
+    <list default="true" id="25471352-1cea-468f-a248-7c7eedba8ce0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlavnaStranicaProjekat/app/src/main/java/com/example/user_pc/glavnastranicaprojekat/Monument.java" beforeDir="false" afterPath="$PROJECT_DIR$/GlavnaStranicaProjekat/app/src/main/java/com/example/user_pc/glavnastranicaprojekat/Monument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GlavnaStranicaProjekat/app/src/main/java/com/example/user_pc/glavnastranicaprojekat/RegActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/GlavnaStranicaProjekat/app/src/main/java/com/example/user_pc/glavnastranicaprojekat/RegActivity.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\NEDŽAD\Documents\GitHub\mobile\mobile novoooooooo\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1cYIxgmtUsPBwL2Ph99CJwfheK3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$" />
     <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
@@ -118,5 +133,16 @@
       <updated>1590699347633</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

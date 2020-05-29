@@ -123,9 +123,9 @@ public class Monument extends AppCompatActivity implements View.OnClickListener 
             @Override
             public void onClick(View v) {
 
-                TextView combe = createNewTextView(mEditText.getText().toString());
+                TextView grbo = createNewTextView(mEditText.getText().toString());
 
-                scroll.addView(combe);
+                scroll.addView(grbo);
 
             }
         });
